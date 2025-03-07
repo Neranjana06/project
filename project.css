@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container {
+    width: 300px;
+    margin: auto;
+}
+input, button {
+    margin: 5px;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    background: lightgray;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+.completed {
+    text-decoration: line-through;
+}
